@@ -1,14 +1,14 @@
 [
 {
-  "modid": "testing",
-  "name": "A Test mod",
+  "modid": "hitech",
+  "name": "A mod",
   "description": "A test mod created by me, sam for an example",
   "version": "1.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["sam2864", "sam"],
-  "credits": "Pahimar, for tutorials and some code",
+  "credits": "Pahimar, for LMRB",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

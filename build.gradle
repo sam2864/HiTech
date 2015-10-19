@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.7.10-1.0"
-group= "com.sam.FusTech" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "FusTech"
+group= "com.sam.hitech" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "hitech"
 
 minecraft {
     version = "1.7.10-10.13.4.1490-1.7.10"
