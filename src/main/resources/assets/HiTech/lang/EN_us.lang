@@ -1,0 +1,13 @@
+#Keys
+keys.hitech.category=HiTech
+keys.hitech.charge=Charge
+keys.hitech.release=Release
+
+#Items
+item.hitech:mapleLeaf.name=Maple leaf
+
+#Blocks
+tile.hitech:flag.name=The Flag of flagness
+
+#Creative tabs
+itemGroup.hitech=A test mod
