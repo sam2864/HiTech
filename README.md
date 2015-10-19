@@ -1,1 +1,1 @@
-# FusiTech
+# HiTech
